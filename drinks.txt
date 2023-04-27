@@ -1,6 +1,4 @@
 Wine.
 Coffee.
-Lemonade.
-Iced tea.
-Hot chocolate.
-Juice.
+Tea
+Green tea
