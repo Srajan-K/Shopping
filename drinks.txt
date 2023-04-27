@@ -4,3 +4,6 @@ Lemonade.
 Iced tea.
 Hot chocolate.
 Juice.
+Tomato juice
+Smoothie
+Milkshake
