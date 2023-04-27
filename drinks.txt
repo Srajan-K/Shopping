@@ -3,3 +3,4 @@ Coffee.
 Lemonade.
 Iced tea.
 Hot chocolate.
+Juice.
