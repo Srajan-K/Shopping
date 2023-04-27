@@ -2,3 +2,5 @@ Wine.
 Coffee.
 Tea
 Green tea
+Chocolate milk
+Hot chocolate
